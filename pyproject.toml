@@ -3,7 +3,6 @@ requires = ["setuptools>=69", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-[project]
 name = "traceopt-ai"
 version = "0.0.1"
 description = "Placeholder package for the upcoming TraceML to TraceOpt transition."
