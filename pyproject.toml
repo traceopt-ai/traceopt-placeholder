@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "traceopt"
+version = "0.0.1"
+description = "Placeholder package for the upcoming TraceML to TraceOpt transition."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "traceopt-ai" }]
+
+[project.urls]
+Homepage = "https://github.com/traceopt-ai/traceopt-placeholder"
+Repository = "https://github.com/traceopt-ai/traceopt-placeholder"
+Issues = "https://github.com/traceopt-ai/traceopt-placeholder/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
