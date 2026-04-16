@@ -6,6 +6,6 @@ The active package and codebase remain under `traceml` for now.
 
 Current project:
 - Repo: https://github.com/traceopt-ai/traceml
-- Package: `pip install traceml`
+- Package: `pip install traceml-ai`
 
-This placeholder package exists to reserve the `traceopt` name on PyPI while the transition is prepared.
+This placeholder package exists to reserve the `traceopt-ai` distribution name on PyPI while the transition is prepared.
